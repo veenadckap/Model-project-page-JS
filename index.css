@@ -1,0 +1,69 @@
+body {
+    background-image: url(Model\ page.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+}
+
+/* #transformed{
+    background-color: #b6d5df;
+    opacity: 0.9;
+    height: 572px;
+    /* display: none; */
+
+#innerMain {
+    background-color: #fffcfc;
+    width: 30%;
+    height: 258px;
+    box-shadow: 2px 2px 2px 2px darkgrey;
+}
+
+#main {
+    padding-top: 12%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+h1 {
+    padding: 5%;
+}
+
+button {
+    width: 35%;
+    height: 14%;
+    background-color: #cbcbcb;
+    border: 1px #b3b3b3 inset;
+}
+
+#hidden {
+    background-color: #fffcfc;
+    width: 30%;
+    height: 258px;
+    box-shadow: 2px 2px 2px 2px darkgrey;
+    display: none;
+    z-index: 1;
+
+    /* opacity: 1; */
+}
+
+.head {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 15%;
+
+}
+
+#pic{
+    padding: 2%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+svg{
+    width: 5%;
+}
+
+
+
